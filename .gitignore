@@ -1,0 +1,7 @@
+*.pyc
+*.rar
+*.zip
+*.log
+__pycache__/
+backup/
+build/
